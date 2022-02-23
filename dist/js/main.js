@@ -1,1 +1,1 @@
-(()=>{"use strict";console.log("asdfasdf"),console.log("asdf")})();
+(()=>{"use strict";console.log("onejs"),console.log("twojs")})();

@@ -1,3 +1,5 @@
-import sliderOne from './modules/slider'
+import onejs from './modules/one'
+import twojs from './modules/two'
 
-sliderOne();
+onejs();
+twojs()
